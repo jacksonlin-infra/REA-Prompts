@@ -148,3 +148,15 @@ Reuse available REA tools. If no entry point is available, use npx -y rea-agents
 ## License
 
 The prompts in this repository retain the original draft's MIT license declaration. REA and referenced materials remain subject to their respective upstream licenses; see [REA LICENSE](https://github.com/morluto/rea/blob/main/LICENSE).
+
+## Star History
+
+GitHub stars over time for this repository. Click the chart to open the interactive view.
+
+<a href="https://www.star-history.com/?repos=jacksonlin-infra%2FREA-Prompts&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jacksonlin-infra/REA-Prompts&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jacksonlin-infra/REA-Prompts&amp;type=Date" />
+    <img alt="REA-Prompts Star History" src="https://api.star-history.com/svg?repos=jacksonlin-infra/REA-Prompts&amp;type=Date" width="800" />
+  </picture>
+</a>

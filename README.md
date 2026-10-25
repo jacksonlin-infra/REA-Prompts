@@ -147,3 +147,15 @@
 ## 许可证
 
 本仓库中的提示词沿用原稿的 MIT 许可声明。REA 及引用材料的许可分别以其上游声明为准，参见 [REA LICENSE](https://github.com/morluto/rea/blob/main/LICENSE)。
+
+## Star 趋势
+
+查看本仓库随时间变化的 GitHub Star 数量，点击图表可打开交互页面。
+
+<a href="https://www.star-history.com/?repos=jacksonlin-infra%2FREA-Prompts&amp;type=date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jacksonlin-infra/REA-Prompts&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jacksonlin-infra/REA-Prompts&amp;type=Date" />
+    <img alt="REA-Prompts Star History" src="https://api.star-history.com/svg?repos=jacksonlin-infra/REA-Prompts&amp;type=Date" width="800" />
+  </picture>
+</a>
